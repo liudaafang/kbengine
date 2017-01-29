@@ -10,7 +10,7 @@ before_install:
    - sudo apt-get update
 notifications:
   recipients:
-    - kbesrv@gmail.com
+    - liudaafang@sina.com
   email:
     on_success: change
     on_failure: always
